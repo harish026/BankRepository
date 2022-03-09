@@ -1,0 +1,15 @@
+C:\Users\h.a.cme5\Desktop\new\BankingFunctionalities\bin\Debug\net5.0\BankingFunctionalities.deps.json
+C:\Users\h.a.cme5\Desktop\new\BankingFunctionalities\bin\Debug\net5.0\BankingFunctionalities.dll
+C:\Users\h.a.cme5\Desktop\new\BankingFunctionalities\bin\Debug\net5.0\ref\BankingFunctionalities.dll
+C:\Users\h.a.cme5\Desktop\new\BankingFunctionalities\bin\Debug\net5.0\BankingFunctionalities.pdb
+C:\Users\h.a.cme5\Desktop\new\BankingFunctionalities\bin\Debug\net5.0\BankLibrary.dll
+C:\Users\h.a.cme5\Desktop\new\BankingFunctionalities\bin\Debug\net5.0\BankLibrary.pdb
+C:\Users\h.a.cme5\Desktop\new\BankingFunctionalities\obj\Debug\net5.0\BankingFunctionalities.csproj.AssemblyReference.cache
+C:\Users\h.a.cme5\Desktop\new\BankingFunctionalities\obj\Debug\net5.0\BankingFunctionalities.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\h.a.cme5\Desktop\new\BankingFunctionalities\obj\Debug\net5.0\BankingFunctionalities.AssemblyInfoInputs.cache
+C:\Users\h.a.cme5\Desktop\new\BankingFunctionalities\obj\Debug\net5.0\BankingFunctionalities.AssemblyInfo.cs
+C:\Users\h.a.cme5\Desktop\new\BankingFunctionalities\obj\Debug\net5.0\BankingFunctionalities.csproj.CoreCompileInputs.cache
+C:\Users\h.a.cme5\Desktop\new\BankingFunctionalities\obj\Debug\net5.0\BankingFunctionalities.csproj.CopyComplete
+C:\Users\h.a.cme5\Desktop\new\BankingFunctionalities\obj\Debug\net5.0\BankingFunctionalities.dll
+C:\Users\h.a.cme5\Desktop\new\BankingFunctionalities\obj\Debug\net5.0\ref\BankingFunctionalities.dll
+C:\Users\h.a.cme5\Desktop\new\BankingFunctionalities\obj\Debug\net5.0\BankingFunctionalities.pdb
